@@ -1,0 +1,11 @@
+customer_id,segment,feedback,impact_rating,channel,timestamp
+C101,Enterprise,"We need better analytics dashboards; current charts take too long to load and don't show cohort trends.",High,Interview,2024-01-15
+C102,SMB,"Onboarding is confusing; a guided tour with AI tips would help new users ramp faster.",Medium,Survey,2024-01-20
+C103,Enterprise,"Billing exports fail when we have more than 5k invoices; need automation or bulk export.",High,Support Ticket,2024-02-03
+C104,Startup,"Love the automation rules but wish we had templates for marketing personas.",Medium,Community,2024-02-12
+C105,Enterprise,"Security review flagged missing audit logs for admin actions; deal blocker.",Critical,RFP,2024-02-19
+C106,SMB,"Mobile app notifications arrive too late for our team standups.",Low,Survey,2024-02-22
+C107,Enterprise,"Stakeholders asking for predictive insights; competitor already has AI-based forecasting.",High,Executive Brief,2024-03-01
+C108,Startup,"Our success manager mentioned workflow AI but there's no documentation on how to enable it.",Medium,Email,2024-03-08
+C109,SMB,"Integrations gallery is overwhelming; recommend AI-powered recommendation feed.",Medium,Interview,2024-03-15
+C110,Enterprise,"Need SOC2 compliant exports and automated anomaly detection for fraud monitoring.",Critical,Security Audit,2024-03-20
